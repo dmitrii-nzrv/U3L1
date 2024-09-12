@@ -5,11 +5,8 @@
 //  Created by Dmitrii Nazarov on 12.09.2024.
 //
 
-//error nil
-
 import Foundation
 
-//singlot/completion/mvp/mvc
 class NetworkManager{
     
     func sendRequest(q: String, limit: Int){
